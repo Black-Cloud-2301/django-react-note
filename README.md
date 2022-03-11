@@ -1,1 +1,1 @@
-# docker-django-veryacademy
+# django-ecommerce
